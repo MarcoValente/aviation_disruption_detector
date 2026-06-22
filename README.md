@@ -24,7 +24,9 @@ A repository for detecting disruptive signals in operational or event-driven dat
 
 ## Notebooks
 
-For data preparation notebooks, check [explore_clean_data.ipynb](notebooks/explore_clean_data.ipynb), while for analysis see [aviation_disruption_detector.ipynb](notebooks/aviation_disruption_detector.ipynb).
+For data preparation notebooks, check [explore_clean_data.ipynb](notebooks/explore_clean_data.ipynb)
+
+For analysis, see [aviation_disruption_detector.ipynb](notebooks/aviation_disruption_detector.ipynb).
 
 ## License
 
